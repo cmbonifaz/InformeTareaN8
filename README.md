@@ -32,17 +32,25 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/ejer1_a_1.jpg">
 
+<img src="Imagenes/cap16/ejercicio2a.jpg">
+
 ***b. 9-j6***
 
 <img src="Imagenes/cap16/ejer1_a_2.jpg">
+
+<img src="Imagenes/cap16/ejercicio2b.jpg">
 
 ***c. -8+j15***
 
 <img src="Imagenes/cap16/ejer1_a_3.jpg">
 
+<img src="Imagenes/cap16/ejercicio2c.jpg">
+
 ***d. -10-j4***
 
 <img src="Imagenes/cap16/ejer1_a_4.jpg">
+
+<img src="Imagenes/cap16/ejercicio2d.jpg">
 
 ***3. Grafique cada uno de los siguientes valores en el plano complejo:***
 
