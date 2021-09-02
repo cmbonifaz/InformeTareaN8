@@ -150,17 +150,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/fig16-50.jpg">
 
-***a. Determine los fasores I1, I2 e IT.***
-
-***b. Determine la ecuación para iT en el dominio del tiempo.***
-
-***15. Para la figura 16-18, i1 =7 sen wt mA, i2 =4 sen (wt -90°) mA e i3=6 sen (wt +90°) mA.***
-
-<img src="Imagenes/cap16/fig16-18.jpg">
-
 <img src="Imagenes/cap16/ejer13_a_1.jpg">
 
-***a. Determine los fasores I1, I2, I3 e IT***
+***a. Determine los fasores I1, I2 e IT.***
 
 <img src="Imagenes/cap16/ejer13_a_2.jpg">
 
@@ -173,6 +165,14 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***b. Determine la ecuación para iT en el dominio del tiempo.***
 
 <img src="Imagenes/cap16/ejer13_b_1.jpg">
+
+***15. Para la figura 16-18, i1 =7 sen wt mA, i2 =4 sen (wt -90°) mA e i3=6 sen (wt +90°) mA.***
+
+<img src="Imagenes/cap16/fig16-18.jpg">
+
+***a. Determine los fasores I1, I2, I3 e IT***
+
+***b. Determine la ecuación para iT en el dominio del tiempo.***
 
 ***17. Para la figura 16-52, R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.***
 
