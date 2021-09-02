@@ -122,15 +122,29 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a.***
 
+<img src="Imagenes/cap16/ejer9_a_1.jpg">
+
 ***b.***
+
+<img src="Imagenes/cap16/ejer9_a_2.jpg">
 
 ***11. Repita el problema 10 para v = e_1- e_2.***
 
 ***a.***
 
+<img src="Imagenes/cap16/ejer11_a_1.jpg">
+
 ***b.***
 
+<img src="Imagenes/cap16/ejer11_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer11_b_2.jpg">
+
+<img src="Imagenes/cap16/ejer11_b_3.jpg">
+
 ***c.***
+
+<img src="Imagenes/cap16/ejer11_c_1.jpg">
 
 ***13. Para la figura 16-50, i_1 = 25 sen (wt +36°) mA e i_2= 40 cos (wt -10°) mA.***
 
@@ -144,9 +158,21 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/fig16-18.jpg">
 
+<img src="Imagenes/cap16/ejer13_a_1.jpg">
+
 ***a. Determine los fasores I1, I2, I3 e IT***
 
+<img src="Imagenes/cap16/ejer13_a_2.jpg">
+
+
+<img src="Imagenes/cap16/ejer13_a_3.jpg">
+
+
+<img src="Imagenes/cap16/ejer13_a_4.jpg">
+
 ***b. Determine la ecuación para iT en el dominio del tiempo.***
+
+<img src="Imagenes/cap16/ejer13_b_1.jpg">
 
 ***17. Para la figura 16-52, R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.***
 
