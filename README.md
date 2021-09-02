@@ -172,7 +172,19 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. Determine los fasores I1, I2, I3 e IT***
 
+<img src="Imagenes/cap16/ejer15_a_1.jpg">
+
+<img src="Imagenes/cap16/ejer15_a_2.jpg">
+
 ***b. Determine la ecuación para iT en el dominio del tiempo.***
+
+<img src="Imagenes/cap16/ejer15_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer15_b_2.jpg">
+
+<img src="Imagenes/cap16/ejer15_b_3.jpg">
+
+<img src="Imagenes/cap16/ejer15_b_4.jpg">
 
 ***17. Para la figura 16-52, R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.***
 
@@ -180,17 +192,35 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. v=120 sen wt V, i=.......***
 
+<img src="Imagenes/cap16/ejer17_a_1.jpg">
+
 ***b. v=120 sen(wt+27°)V, i=........***
+
+<img src="Imagenes/cap16/ejer17_a_2.jpg">
 
 ***c. i=17 sen(wt-56°)mA, v=......***
 
+<img src="Imagenes/cap16/ejer17_a_3.jpg">
+
 ***d. i= -17 cos(wt-67°) uA, v= .....***
+
+<img src="Imagenes/cap16/ejer17_a_4.jpg">
 
 ***19. Dos resistores R1 = 10 kΩ y R2 = 12.5 kΩ están en serie. Si i  14.7 sen (wt+39°) mA,***
 
 ***a. ¿Cuánto valen vR1 y vR2?***
 
+<img src="Imagenes/cap16/ejer19_a_1.jpg">
+
+<img src="Imagenes/cap16/ejer19_a_2.jpg">
+
 ***b.  Calcule vT = vR1+ vR2 y compárelo con vT calculada a partir de vT =i RT.***
+
+<img src="Imagenes/cap16/ejer19_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer19_b_2.jpg">
+
+<img src="Imagenes/cap16/ejer19_b_3.jpg">
 
 ***21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.***
 
