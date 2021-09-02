@@ -228,11 +228,19 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. vL = 10 sen (wt + 60°) V, iL = .....***
 
+<img src="Imagenes/cap16/ejer21_a_1.jpg">
+
 ***b. vL = 10 sen (wt - 15°) V, iL = ......***
+
+<img src="Imagenes/cap16/ejer21_a_2.jpg">
 
 ***c. iL = 5 cos (wt - 60°) A, vL = ......***
 
+<img src="Imagenes/cap16/ejer21_a_3.jpg">
+
 ***d. iL = 5 sen (wt + 10°) A, vL = ......***
+
+<img src="Imagenes/cap16/ejer21_a_4.jpg">
 
 ***23. Para la figura 16-53, e = 100 sen wt y L = 0.5 H. Determine iL a .....***
 
@@ -240,9 +248,27 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. 60 Hz***
 
+<img src="Imagenes/cap16/ejer23_a_1.jpg">
+
+<img src="Imagenes/cap16/ejer23_a_2.jpg">
+
+<img src="Imagenes/cap16/ejer21_a_3.jpg">
+
 ***b. 1000 Hz***
 
+<img src="Imagenes/cap16/ejer23_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer23_b_2.jpg">
+
+<img src="Imagenes/cap16/ejer21_b_3.jpg">
+
 ***c. 500rad/s***
+
+<img src="Imagenes/cap16/ejer23_c_1.jpg">
+
+<img src="Imagenes/cap16/ejer23_c_2.jpg">
+
+<img src="Imagenes/cap16/ejer21_c_3.jpg">
 
 ***25. Para la figura 16-53, si***
 
