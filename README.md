@@ -134,7 +134,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***13. Para la figura 16-50, i_1 = 25 sen (wt +36°) mA e i_2= 40 cos (wt -10°) mA.***
 
-<img src="Imagenes/cap16/fig16-51.jpg">
+<img src="Imagenes/cap16/fig16-50.jpg">
 
 ***a. Determine los fasores I1, I2 e IT.***
 
