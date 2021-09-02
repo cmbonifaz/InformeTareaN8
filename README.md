@@ -118,6 +118,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.***
 
+<img src="Imagenes/cap16/fig16-48.jpg">
+
 ***a.***
 
 ***b.***
@@ -132,17 +134,23 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***13. Para la figura 16-50, i_1 = 25 sen (wt +36°) mA e i_2= 40 cos (wt -10°) mA.***
 
+<img src="Imagenes/cap16/fig16-51.jpg">
+
 ***a. Determine los fasores I1, I2 e IT.***
 
 ***b. Determine la ecuación para iT en el dominio del tiempo.***
 
 ***15. Para la figura 16-18, i1 =7 sen wt mA, i2 =4 sen (wt -90°) mA e i3=6 sen (wt +90°) mA.***
 
+<img src="Imagenes/cap16/fig16-18.jpg">
+
 ***a. Determine los fasores I1, I2, I3 e IT***
 
 ***b. Determine la ecuación para iT en el dominio del tiempo.***
 
 ***17. Para la figura 16-52, R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.***
+
+<img src="Imagenes/cap16/fig16-52.jpg">
 
 ***a. v=120 sen wt V, i=.......***
 
@@ -160,6 +168,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.***
 
+<img src="Imagenes/cap16/fig16-53.jpg">
+
 ***a. vL = 10 sen (wt + 60°) V, iL = .....***
 
 ***b. vL = 10 sen (wt - 15°) V, iL = ......***
@@ -170,6 +180,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***23. Para la figura 16-53, e = 100 sen wt y L = 0.5 H. Determine iL a .....***
 
+<img src="Imagenes/cap16/fig16-53.jpg">
+
 ***a. 60 Hz***
 
 ***b. 1000 Hz***
@@ -177,6 +189,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***c. 500rad/s***
 
 ***25. Para la figura 16-53, si***
+
+<img src="Imagenes/cap16/fig16-53.jpg">
 
 ***a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?***
 
@@ -192,11 +206,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***29.Para la figura 16-54, C = 50 uF.***
 
+<img src="Imagenes/cap16/fig16-53}4.jpg">
+
 ***a. vC = 100 sen377t V, ¿cuánto vale iC?***
 
 ***b. iC = 10 sen(2π * 400t - 60°), ¿cuánto vale vC?***
 
 ***31. Determine la impedancia de cada elemento de circuito de la figura 16-55.***
+
+<img src="Imagenes/cap16/fig16-55.jpg">
 
 ***a.***
 
@@ -223,6 +241,8 @@ B.
 C.
 
 ***35. Para cada circuito de la figura 16-57 determine la incógnita.***
+
+<img src="Imagenes/cap16/fig16-57.jpg">
 
 ***a.***
 
