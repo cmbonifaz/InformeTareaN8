@@ -252,7 +252,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/ejer23_a_2.jpg">
 
-<img src="Imagenes/cap16/ejer21_a_3.jpg">
+<img src="Imagenes/cap16/ejer23_a_3.jpg">
 
 ***b. 1000 Hz***
 
@@ -260,7 +260,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/ejer23_b_2.jpg">
 
-<img src="Imagenes/cap16/ejer21_b_3.jpg">
+<img src="Imagenes/cap16/ejer23_b_3.jpg">
 
 ***c. 500rad/s***
 
@@ -268,7 +268,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="Imagenes/cap16/ejer23_c_2.jpg">
 
-<img src="Imagenes/cap16/ejer21_c_3.jpg">
+<img src="Imagenes/cap16/ejer23_c_3.jpg">
 
 ***25. Para la figura 16-53, si***
 
