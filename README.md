@@ -276,7 +276,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?***
 
-***iL = 250 sen (wt + 40°) A, vL = 40 sen (wt + θ ) V, y f  500 kHz, ¿cuál es el valor de L y θ?***
+***b. iL = 250 sen (wt + 40°) A, vL = 40 sen (wt + θ ) V, y f  500 kHz, ¿cuál es el valor de L y θ?***
 
 ***27. ¿Cuál es la reactancia de un capacitor de 5 uF a .....***
 
