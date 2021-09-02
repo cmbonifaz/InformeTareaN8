@@ -276,15 +276,28 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?***
 
+<img src="Imagenes/cap16/ejer25_a_1.jpg">
+
 ***b. iL = 250 sen (wt + 40°) A, vL = 40 sen (wt + θ ) V, y f  500 kHz, ¿cuál es el valor de L y θ?***
 
+<img src="Imagenes/cap16/ejer25_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer25_b_2.jpg">
+
+<img src="Imagenes/cap16/ejer25_b_3.jpg">
 ***27. ¿Cuál es la reactancia de un capacitor de 5 uF a .....***
 
 ***a. 60Hz***
 
+<img src="Imagenes/cap16/ejer27_a_1.jpg">
+
 ***b. 1000Hz***
 
+<img src="Imagenes/cap16/ejer27_a_5.jpg">
+
 ***c. 500 rad/s***
+
+<img src="Imagenes/cap16/ejer27_a_3.jpg">
 
 ***29.Para la figura 16-54, C = 50 uF.***
 
@@ -292,7 +305,11 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. vC = 100 sen377t V, ¿cuánto vale iC?***
 
+<img src="Imagenes/cap16/ejer29_a_1.jpg">
+
 ***b. iC = 10 sen(2π * 400t - 60°), ¿cuánto vale vC?***
+
+<img src="Imagenes/cap16/ejer29_b_1.jpg">
 
 ***31. Determine la impedancia de cada elemento de circuito de la figura 16-55.***
 
@@ -300,9 +317,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a.***
 
+<img src="Imagenes/cap16/ejer31_a_1.jpg">
+
 ***b.***
 
+<img src="Imagenes/cap16/ejer31_a_2.jpg">
+
 ***c.***
+
+<img src="Imagenes/cap16/ejer31_a_3.jpg">
 
 ***33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0°:***
 
