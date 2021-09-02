@@ -334,17 +334,29 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 A.
 
+<img src="Imagenes/cap16/ejer33_a_1.jpg">
+
 B.
 
+<img src="Imagenes/cap16/ejer33_a_2.jpg">
+
 C.
+
+<img src="Imagenes/cap16/ejer33_a_3.jpg">
 
 ***b. Exprese cada voltaje en forma del dominio del tiempo.***
 
 A.
 
+<img src="Imagenes/cap16/ejer33_b_1.jpg">
+
 B.
 
+<img src="Imagenes/cap16/ejer33_b_2.jpg">
+
 C.
+
+<img src="Imagenes/cap16/ejer33_b_3.jpg">
 
 ***35. Para cada circuito de la figura 16-57 determine la incógnita.***
 
@@ -352,7 +364,11 @@ C.
 
 ***a.***
 
+<img src="Imagenes/cap16/ejer35_a_1.jpg">
+
 ***b.***
+
+<img src="Imagenes/cap16/ejer35_a_2.jpg">
 
 ### 4. VIDEO
 
