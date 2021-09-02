@@ -285,6 +285,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 <img src="Imagenes/cap16/ejer25_b_2.jpg">
 
 <img src="Imagenes/cap16/ejer25_b_3.jpg">
+
 ***27. ¿Cuál es la reactancia de un capacitor de 5 uF a .....***
 
 ***a. 60Hz***
@@ -293,7 +294,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***b. 1000Hz***
 
-<img src="Imagenes/cap16/ejer27_a_5.jpg">
+<img src="Imagenes/cap16/ejer27_a_2.jpg">
 
 ***c. 500 rad/s***
 
