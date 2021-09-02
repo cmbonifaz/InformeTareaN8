@@ -166,7 +166,7 @@ B.
 
 C.
 
-***b. Exprese cada voltaje en forma del dominio del tiempo.**
+***b. Exprese cada voltaje en forma del dominio del tiempo.***
 
 A.
 
