@@ -374,7 +374,7 @@ C.
 
 ### 5. CONCLUSIONES 
 
-- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por  los fundamentos de ca o por  los elementos de R, L y C y el concepto de impedancia, que lo aprendidio en clases se ha clarificado.
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por  los fundamentos de ca o por  los elementos de R, L y C y el concepto de impedancia, que lo aprendido en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
 
