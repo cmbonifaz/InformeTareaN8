@@ -288,7 +288,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***29.Para la figura 16-54, C = 50 uF.***
 
-<img src="Imagenes/cap16/fig16-53}4.jpg">
+<img src="Imagenes/cap16/fig16-54.jpg">
 
 ***a. vC = 100 sen377t V, ¿cuánto vale iC?***
 
