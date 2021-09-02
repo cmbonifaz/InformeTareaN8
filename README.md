@@ -48,25 +48,45 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. 4+j6***
 
+<img src="Imagenes/cap16/ejer3_a_1.jpg">
+
 ***b. j4***
+
+<img src="Imagenes/cap16/ejer3_a_2.jpg">
 
 ***c. 6∠-90°***
 
+<img src="Imagenes/cap16/ejer3_a_3.jpg">
+
 ***d. 10∠135°***
+
+<img src="Imagenes/cap16/ejer3_a_4.jpg">
 
 ***5. Exprese sus respuestas en forma rectangular.***
 
 ***a. (4 +j8)+ (3-j2)***
 
+<img src="Imagenes/cap16/ejer5_a_1.jpg">
+
 ***b. (4+j8)-(3-j2)***
+
+<img src="Imagenes/cap16/ejer5_a_2.jpg">
 
 ***c. (4.1-j7.6)+12∠20°***
 
+<img src="Imagenes/cap16/ejer5_a_3.jpg">
+
 ***d. 2.9∠25° -7.3 ∠-5°***
+
+<img src="Imagenes/cap16/ejer5_a_4.jpg">
 
 ***e. 9.2∠-120° -(2.6+j4.1)***
 
+<img src="Imagenes/cap16/ejer5_a_5.jpg">
+
 ***f. 1/3+j4+1/8-j6***
+
+<img src="Imagenes/cap16/ejer5_a_6.jpg">
 
 ***7.  Reduzca cada corriente siguiente a forma polar:***
 
