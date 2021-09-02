@@ -12,6 +12,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+- Clarificar el estudio de los fundamentos de ca además de los elemetos de R, L y C, el concepto de impedancia, todo esto aplicando los conocimientos aprendidos durante clases.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 15 (Fundamentos de ca)
