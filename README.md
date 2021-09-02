@@ -100,9 +100,21 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. 15-j6-((18∠40°+(12+j8))/11+j11)***
 
+<img src="Imagenes/cap16/ejer7_a_1.jpg">
+
+<img src="Imagenes/cap16/ejer7_a_2.jpg">
+
 ***b. (21∠20°-j41)/(36∠0°+(1+j12)-11∠40°)***
 
+<img src="Imagenes/cap16/ejer7_b_1.jpg">
+
+<img src="Imagenes/cap16/ejer7_b_2.jpg">
+
 ***c. ((18∠40°-18∠-40°)/7+j12) - ((16+j17+21∠-60°)/4)***
+
+<img src="Imagenes/cap16/ejer7_c_1.jpg">
+
+<img src="Imagenes/cap16/ejer7_c_2.jpg">
 
 ***9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.***
 
