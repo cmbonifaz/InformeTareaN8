@@ -150,9 +150,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***31. Determine la impedancia de cada elemento de circuito de la figura 16-55.***
 
-***a. ***
+***a.***
 
-***b. ***
+***b.***
 
 ***c.***
 
@@ -176,7 +176,7 @@ C.
 
 ***35. Para cada circuito de la figura 16-57 determine la incógnita.***
 
-***a.**
+***a.***
 
 ***b.***
 
