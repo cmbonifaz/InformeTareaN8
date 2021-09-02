@@ -12,7 +12,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
-- Clarificar el estudio de los fundamentos de ca además de los elemetos de R, L y C, el concepto de impedancia, todo esto aplicando los conocimientos aprendidos durante clases.
+- Clarificar el estudio de los fundamentos de ca además de los elementos de R, L y C, el concepto de impedancia, todo esto aplicando los conocimientos aprendidos durante clases.
 
 ### 2. MARCO TEÓRICO
 
@@ -373,6 +373,8 @@ C.
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
+
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por  los fundamentos de ca o por  los elementos de R, L y C y el concepto de impedancia, que lo aprendidio en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
 
