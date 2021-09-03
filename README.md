@@ -26,6 +26,22 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 15 (Fundamentos de ca)
 
+***35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.***
+
+<img src="Imagenes/cap15B/Captura.PNG">
+
+<img src="Imagenes/cap15B/Captura1.PNG">
+
+***37. Dada v=5 sen(ωt+45°). Si ω=20π rad/s, ¿qué valor tiene v cuando t= 20, 75 y 90 ms?***
+
+<img src="Imagenes/cap15B/Captura2.PNG">
+
+<img src="Imagenes/cap15B/Captura3.PNG">
+
+<img src="Imagenes/cap15B/Captura4.PNG">
+
+<img src="Imagenes/cap15B/Captura5.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
