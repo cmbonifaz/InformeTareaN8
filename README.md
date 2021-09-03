@@ -156,6 +156,32 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura18.PNG">
 
+***51. Para el circuito de la figura 15-90, e=25 senωt V y un periodo de T=120 ms. ***
+
+<img src="Imagenes/cap15B/Captura19.PNG">
+
+***a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.***
+
+<img src="Imagenes/cap15B/Captura20.PNG">
+
+***b. Determine los voltajes pico y mínimo. ***
+
+<img src="Imagenes/cap15B/Captura21.PNG">
+
+***c. Calcule v cuando t=10, 20, 70 y 100 ms. ***
+
+<img src="Imagenes/cap15B/Captura22.PNG">
+
+<img src="Imagenes/cap15B/Captura23.PNG">
+
+<img src="Imagenes/cap15B/Captura24.PNG">
+
+<img src="Imagenes/cap15B/Captura25.PNG">
+
+***d. Determine Vprom.***
+
+<img src="Imagenes/cap15B/Captura26.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
