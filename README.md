@@ -142,6 +142,20 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura13.PNG">
 
+***47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?***
+
+<img src="Imagenes/cap15B/Captura14.PNG">
+
+***49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.***
+
+<img src="Imagenes/cap15B/Captura15.PNG">
+
+<img src="Imagenes/cap15B/Captura16.PNG">
+
+<img src="Imagenes/cap15B/Captura17.PNG">
+
+<img src="Imagenes/cap15B/Captura18.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
