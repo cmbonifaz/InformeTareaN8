@@ -182,6 +182,16 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura26.PNG">
 
+***53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91.***
+
+<img src="Imagenes/cap15B/Captura27.PNG">
+
+<img src="Imagenes/cap15B/Captura28.PNG">
+
+***55. Determine los valores rms para cada uno de los siguientes casos:***
+
+<img src="Imagenes/cap15B/Captura29.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
