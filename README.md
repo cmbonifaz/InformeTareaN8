@@ -26,21 +26,83 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 15 (Fundamentos de ca)
 
-***35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.***
+***1.	¿A qué se refiere “voltaje de ca” y “corriente de ca”?***
 
-<img src="Imagenes/cap15B/Captura.PNG">
+El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
 
-<img src="Imagenes/cap15B/Captura1.PNG">
+***3.	a. ¿Qué significa valor instantáneo? b. Para la figura 15-74, determine los voltajes instantáneos en t =0, 1, 2, 3, 4, 5, 6, 7 y 8 ms***
 
-***37. Dada v=5 sen(ωt+45°). Si ω=20π rad/s, ¿qué valor tiene v cuando t= 20, 75 y 90 ms?***
+a.	La magnitud de una forma de onda (tal como voltaje o corriente) en cualquier instante.
 
-<img src="Imagenes/cap15B/Captura2.PNG">
+<img src="Imagenes/cap15/Ejer-3.jpg">
 
-<img src="Imagenes/cap15B/Captura3.PNG">
+b.	0, 10, 20, 20, 20, 0, -20, -20, 0 (todos en V)
 
-<img src="Imagenes/cap15B/Captura4.PNG">
+***5.	La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.***
 
-<img src="Imagenes/cap15B/Captura5.PNG">
+<img src="Imagenes/cap15/Ejer-5.jpg">
+
+***7.	Para cada uno de los siguientes, determine la frecuencia: a.T=0.5s b.T=100s c.5T=80us***
+
+<img src="Imagenes/cap15/Ejer-7.jpg">
+
+***9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77***
+
+<img src="Imagenes/cap15/Ejer-9.jpg">
+
+***11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?***
+
+<img src="Imagenes/cap15/Ejer-11.jpg">
+
+El voltaje pico a pico es 15 V y la corriente pico a pico es 6 mA.
+
+***13.	¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?***
+
+N=t*f
+
+N= 177*847
+
+N=149919 ciclos
+
+***15.	Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?***
+
+<img src="Imagenes/cap15/Ejer-15.jpg">
+
+***17.	Dado el voltaje v = Vm sen (a). Si Vm = 240 V, ¿qué valor tiene v cuando a =37°?***
+
+<img src="Imagenes/cap15/Ejer-17.jpg">
+
+***19.	Un voltaje sinusoidal tiene un valor de 50 V cuando a =150. ¿Qué valor tiene Vm?***
+
+<img src="Imagenes/cap15/Ejer-19.jpg">
+
+***21.	Convierta los siguientes ángulos de grados a radianes: a. 10° b. 25° c. 80°  d. 150° e. 350° f. 620°***
+
+<img src="Imagenes/cap15/Ejer-21.jpg">
+
+***23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t=30, 75, 140 y 315 ms***
+
+<img src="Imagenes/cap15/Ejer-23.jpg">
+
+***25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t=5 us. Determine Vm y dibuje la forma de onda***
+
+<img src="Imagenes/cap15/Ejer-25.jpg">
+
+***27. Calcule q en radianes por segundo para cada uno de los siguientes casos:a. T =100 ns  b. f =30 Hz  c. 100 ciclos en 4 s   d. periodo = 20 ms   e. 5 periodos en 20 ms***
+         
+<img src="Imagenes/cap15/Ejer-27.jpg">
+
+***29. Determine las ecuaciones para las ondas seno con lo siguiente:a. Vm = 170 V, f = 60 Hz  b. Im = 40 uA, T =10 ms  c. T =120 us, v = 10 V en t =12 us***
+ 
+<img src="Imagenes/cap15/Ejer-29.jpg">
+
+***31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.***
+
+<img src="Imagenes/cap15/Ejer-31.jpg">
+
+***33. Dada i=47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.***
+
+<img src="Imagenes/cap15/Ejer-33.jpg">
 
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
