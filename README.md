@@ -566,6 +566,8 @@ C.
 
 - Las corrientes alternas (ca) varían su dirección, pasando primero en una dirección, luego en otra a través de un circuito. Dichas corrientes son producidas por fuentes de voltaje cuyas polaridades se alternan entre positivo y negativo. 
 
+- junto con lo aprendido en la clase y lo analizado en estos capitulos tenemos una mayor comprension y manejo del tema, realizando con satisfaccion los ejercicios propuestos en estos capitulos.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
