@@ -136,6 +136,12 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura11.PNG">
 
+***45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?***
+
+<img src="Imagenes/cap15B/Captura12.PNG">
+
+<img src="Imagenes/cap15B/Captura13.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
