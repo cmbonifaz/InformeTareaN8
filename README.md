@@ -126,6 +126,16 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura7.PNG">
 
+***43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada***
+
+<img src="Imagenes/cap15B/Captura8.PNG">
+
+<img src="Imagenes/cap15B/Captura9.PNG">
+
+<img src="Imagenes/cap15B/Captura10.PNG">
+
+<img src="Imagenes/cap15B/Captura11.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
