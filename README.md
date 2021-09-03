@@ -192,6 +192,18 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura29A.PNG">
 
+***59. Calcule los valores rms para las formas de onda de la figura 15-92.***
+
+<img src="Imagenes/cap15B/Captura30.PNG">
+
+<img src="Imagenes/cap15B/Captura31.PNG">
+
+***61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?***
+
+<img src="Imagenes/cap15B/Captura32.PNG">
+
+<img src="Imagenes/cap15B/Captura33.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
