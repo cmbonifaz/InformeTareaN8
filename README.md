@@ -190,7 +190,7 @@ N=149919 ciclos
 
 ***55. Determine los valores rms para cada uno de los siguientes casos:***
 
-<img src="Imagenes/cap15B/Captura29.PNG">
+<img src="Imagenes/cap15B/Captura29A.PNG">
 
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
