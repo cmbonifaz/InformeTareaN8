@@ -120,6 +120,12 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura5.PNG">
 
+***39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.***
+
+<img src="Imagenes/cap15B/Captura6.PNG">
+
+<img src="Imagenes/cap15B/Captura7.PNG">
+
 #### Capitulo 16 (Elementos R, L y C y el concepto de impedancia)
 
 ***1. Convierta cada uno de los siguientes números a forma polar:***
