@@ -156,7 +156,7 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura18.PNG">
 
-***51. Para el circuito de la figura 15-90, e=25 senωt V y un periodo de T=120 ms. ***
+***51. Para el circuito de la figura 15-90, e=25 senωt V y un periodo de T=120 ms.***
 
 <img src="Imagenes/cap15B/Captura19.PNG">
 
@@ -164,11 +164,11 @@ N=149919 ciclos
 
 <img src="Imagenes/cap15B/Captura20.PNG">
 
-***b. Determine los voltajes pico y mínimo. ***
+***b. Determine los voltajes pico y mínimo.***
 
 <img src="Imagenes/cap15B/Captura21.PNG">
 
-***c. Calcule v cuando t=10, 20, 70 y 100 ms. ***
+***c. Calcule v cuando t=10, 20, 70 y 100 ms.***
 
 <img src="Imagenes/cap15B/Captura22.PNG">
 
