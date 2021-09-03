@@ -14,6 +14,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Clarificar el estudio de los fundamentos de ca además de los elementos de R, L y C, el concepto de impedancia, todo esto aplicando los conocimientos aprendidos durante clases.
 
+- Definir y calcular la frecuencia, periodo, amplitud y valores pico a pico.
+
+-  Calcular el voltaje sinusoidal instantáneo o corriente en cualquier instante.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 15 (Fundamentos de ca)
@@ -559,6 +563,8 @@ C.
 ### 5. CONCLUSIONES 
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por  los fundamentos de ca o por  los elementos de R, L y C y el concepto de impedancia, que lo aprendido en clases se ha clarificado.
+
+- Las corrientes alternas (ca) varían su dirección, pasando primero en una dirección, luego en otra a través de un circuito. Dichas corrientes son producidas por fuentes de voltaje cuyas polaridades se alternan entre positivo y negativo. 
 
 ### 6. BIBLIOGRAFÍA
 
